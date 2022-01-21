@@ -1,0 +1,124 @@
+.image{
+    width:100%;
+    height: 500px;
+}
+
+.logo{
+    font-family:'Kaushan Script' ;
+    color: #fff !important;
+    font-size: 1.267em;
+    display: block;
+}
+.navbar-collapse{
+    flex-grow: 0;
+    padding-left: 20px;
+}
+.menu{
+    
+    padding-bottom: 30px;
+    background-color: #334960;
+    padding-top: 20px;
+}
+.menu1{
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    display: flex;
+    color: #fff;
+    opacity: 0.5;
+   
+    
+}
+.two{
+    float: right;
+    display: flex;
+    color: #fff !important;
+    opacity: 0.5;
+}
+.trait{
+    border-top : 0.8px solid #fff;
+     color: #fff;
+    text-align: center;
+    opacity: 0.5;
+}
+.hor{
+    border-left: 1px solid #fff;
+    display: inline-block;
+    height: 20px;
+    margin: 0 20px;
+    opacity: 0.5;
+    
+}
+.alam{
+    margin: 0 20px;
+}
+.nav-link{
+    color: #fff !important;
+    opacity: 1;
+}.un{
+    margin-bottom: 20px;
+}
+.formulaire{
+    width: 300px;
+    height: 330px;
+    background-color: #47a0ff;
+    border-radius: 10px;
+    color: #fff;
+    padding-top: 50px;
+    
+
+}
+.block{
+    display: flex;
+}
+.texte1{
+    text-align: center;
+    font-family: cursive !important;
+    font-style: 20px !important;
+}
+p.texte1{
+    font-family:  Tahoma, sans-serif !important;
+}
+.p-3{
+   padding: 0rem !important; 
+
+   /* width:500px ; */
+   height: 200px;
+   margin-right: 10px;
+   font-weight: bold;
+   font-family: fantasy;
+   color:darkgray;
+   
+
+}
+.grs{
+   
+    color: black;
+    font-family:  sans-serif;
+}
+.second{
+    background-color: rgb(240, 237, 237);
+    padding-top: 40px;
+}
+.col{
+    width: 250px;
+}
+
+.txt2{
+    font-weight:700;
+    color: black;
+    font-size: 40px;
+    font-family: serif;
+}
+.txt1{
+    font-weight:700;
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+}
+.mage{
+    background: url(images/most-popular-bg.jpeg) no-repeat center; 
+    width: auto;
+    height: 500px;
+}
